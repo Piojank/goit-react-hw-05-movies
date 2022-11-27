@@ -87,6 +87,8 @@
 
 .InfoItems:hover {
     box-shadow: 1px 1px 5px lightgrey;
+    color: white;
+    background-color: #2196f3;
 }
 
 .InfoItem {
