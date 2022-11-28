@@ -20,6 +20,7 @@ const MoviesView = () => {
       return;
     }
     setQuery('');
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [search]);
 
   useEffect(() => {
@@ -36,6 +37,7 @@ const MoviesView = () => {
     return () => {
       cancelled = true;
     };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [query]);
 
   const onSubmit = query => setQuery(query);
