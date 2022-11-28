@@ -1,6 +1,9 @@
 import axios from 'axios';
-import { API_KEY, BASE_URL } from './constants';
-import { getListData } from './helpers';
+
+const BASE_URL = 'https://api.themoviedb.org/3';
+const API_KEY = '2fbc7db510c512abbad3f7536a5c4f5b';
+
+const getListData = res => res.data.results.map(({ title, id }) => ({ title, id }));
 
 const _axios = axios.create({ baseURL: BASE_URL });
 
