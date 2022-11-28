@@ -8,6 +8,7 @@ const HomeView = () => {
 
   useEffect(() => {
     setQuery('');
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
