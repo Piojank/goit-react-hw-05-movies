@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ebf06f70.css",
-    "main.js": "/static/js/main.1cfe079e.js",
+    "main.js": "/static/js/main.7a5d651d.js",
     "HomeView.css": "/static/css/HomeView.67a435ae.chunk.css",
     "HomeView.js": "/static/js/HomeView.c11f949e.chunk.js",
     "MoviesView.css": "/static/css/MoviesView.0441b372.chunk.css",
@@ -9,13 +9,13 @@
     "MovieDetailsView.css": "/static/css/MovieDetailsView.795551d4.chunk.css",
     "MovieDetailsView.js": "/static/js/MovieDetailsView.f55ca094.chunk.js",
     "CastView.css": "/static/css/CastView.8253d3c7.chunk.css",
-    "CastView.js": "/static/js/CastView.961004ac.chunk.js",
-    "ReviewView.js": "/static/js/ReviewView.d33bd1fe.chunk.js",
+    "CastView.js": "/static/js/CastView.32f25612.chunk.js",
+    "ReviewView.js": "/static/js/ReviewView.527070f1.chunk.js",
     "static/js/388.e510aa86.chunk.js": "/static/js/388.e510aa86.chunk.js",
     "static/js/808.119d1b56.chunk.js": "/static/js/808.119d1b56.chunk.js",
     "index.html": "/index.html",
     "main.ebf06f70.css.map": "/static/css/main.ebf06f70.css.map",
-    "main.1cfe079e.js.map": "/static/js/main.1cfe079e.js.map",
+    "main.7a5d651d.js.map": "/static/js/main.7a5d651d.js.map",
     "HomeView.67a435ae.chunk.css.map": "/static/css/HomeView.67a435ae.chunk.css.map",
     "HomeView.c11f949e.chunk.js.map": "/static/js/HomeView.c11f949e.chunk.js.map",
     "MoviesView.0441b372.chunk.css.map": "/static/css/MoviesView.0441b372.chunk.css.map",
@@ -23,13 +23,13 @@
     "MovieDetailsView.795551d4.chunk.css.map": "/static/css/MovieDetailsView.795551d4.chunk.css.map",
     "MovieDetailsView.f55ca094.chunk.js.map": "/static/js/MovieDetailsView.f55ca094.chunk.js.map",
     "CastView.8253d3c7.chunk.css.map": "/static/css/CastView.8253d3c7.chunk.css.map",
-    "CastView.961004ac.chunk.js.map": "/static/js/CastView.961004ac.chunk.js.map",
-    "ReviewView.d33bd1fe.chunk.js.map": "/static/js/ReviewView.d33bd1fe.chunk.js.map",
+    "CastView.32f25612.chunk.js.map": "/static/js/CastView.32f25612.chunk.js.map",
+    "ReviewView.527070f1.chunk.js.map": "/static/js/ReviewView.527070f1.chunk.js.map",
     "388.e510aa86.chunk.js.map": "/static/js/388.e510aa86.chunk.js.map",
     "808.119d1b56.chunk.js.map": "/static/js/808.119d1b56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebf06f70.css",
-    "static/js/main.1cfe079e.js"
+    "static/js/main.7a5d651d.js"
   ]
 }
